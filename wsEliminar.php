@@ -1,8 +1,8 @@
 <?php
 $hostname_localhost = "localhost";
-$database_localhost = "id6525101_agenda_db";
-$username_localhost = "id6525101_cursoandroid";
-$pass_localhost = "juanma123";
+$database_localhost = "agenda";
+$username_localhost = "root";
+$pass_localhost = "cisco123";
 
 $json = array();
 
